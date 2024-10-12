@@ -1,7 +1,7 @@
 # 👋🏻 Hi there!
 
 ## 👱🏻‍♂️ About Me:
-I'm currently a Software Engineering student, I consider myself a full-stack dev. <br>✅ HTML, CSS, JavaScript, TypeScript & C#<br>🗄️Back-end: Node.js, Express.js<br>💻Front-end: React, Next.js, TailwindCSS<br>
+I'm currently a Software Engineering student, I consider myself a full-stack dev. <br>✅ HTML, CSS, JavaScript, TypeScript & C#<br>🗄️Back-end: Node.js, Express.js, .NET, MVC<br>💻Front-end: React, Next.js, TailwindCSS, Astro, TanStack Query<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/llanesluis) 
