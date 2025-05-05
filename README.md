@@ -25,5 +25,3 @@ I'm currently a Software Engineering student, I'd like to consider myself a full
 <a href='' target="_blank"><img alt='C#' src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white'/></a>
 <a href='' target="_blank"><img alt='.NET' src='https://img.shields.io/badge/ASP.NET-100000?style=for-the-badge&logo=.NET&logoColor=white&labelColor=5500BD&color=5500BD'/></a>
 <a href='' target="_blank"><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=278F93&color=278F93'/></a>
-
----
